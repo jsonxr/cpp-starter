@@ -1,0 +1,5 @@
+-fdiagnostics-color=always
+-Iincludes
+-g
+-Wall
+-std=c++20
